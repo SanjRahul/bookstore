@@ -1,0 +1,5 @@
+first create a new Database Name with bookstore.
+Then Import the Database.
+Then open index.php and register a New Store 
+Add the new Book to the database
+
